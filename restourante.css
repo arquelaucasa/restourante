@@ -1,0 +1,83 @@
+header {
+    color:#22806b ; /* cor da texto*/ 
+background-color:#a89f1d ; /* cor de fundo*/
+justify-content: center; /*centralizar*/
+display : flex; /* tamanha da imagens*/
+gap: 02px; /* tamanho da pixul da imagens*/
+align-items: center; /*centraliza aimagens*/
+
+}
+header h1 {
+color: black; /* cor da texto*/ 
+text-align: center; /*centralizar o texto*/
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 50px;
+
+
+}
+header img {
+    width: 70px;
+
+
+}
+.nayla {
+
+    padding: 150px;
+    background-color: #facb4b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+
+}
+
+.amanda {
+background-color: #fcaf14;
+
+}
+
+.amanda i {
+    font-size: 50px;
+  padding: 10px;
+}
+
+.michele {
+text-align: center;
+background-color: #ed7615;
+padding: 80px;
+background-image:url(imagens/taças.jpg);
+
+
+
+}
+button {
+background-color:blue;
+color: black;
+padding: 10px;
+text-align: center;
+
+}
+
+
+footer {
+    color: black;
+background: #22806b;
+padding: 50px;
+text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+
+}
+
+
+
+
+
+
+}
+
+
+   
+   
+
