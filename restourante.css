@@ -49,12 +49,16 @@ background-image:url(imagens/taças.jpg);
 
 
 
+
 }
 button {
-background-color:blue;
-color: black;
-padding: 10px;
-text-align: center;
+    width: 150px; 
+    padding: 10px;
+    background-color:blue;(98, 95, 95, 0.802); cor de fundo com opacidade
+    color: white; 
+    border-radius: 5px; 
+    display: flex;
+
 
 }
 
@@ -62,20 +66,14 @@ text-align: center;
 footer {
     color: black;
 background: #22806b;
-padding: 50px;
+padding: 70px;
 text-align: center;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
-
-
 }
 
 
-
-
-
-
-}
+    
 
 
    

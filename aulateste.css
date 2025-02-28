@@ -1,0 +1,85 @@
+
+header { /*ESTILIZANDO O CABEÇALHO*/
+    background-color: #312c20d8;
+    /* cor de fundo do cabeçalho */
+    /*alinhamento do texto*/
+    padding: 25px;
+    /* tamanho/preenchimento do cabeçalho*/
+    display: flex; /*Responsável por tornar os itens Flex e deixar lado a lado*/
+    justify-content: center; /*Organização dos conteúdos dentro do Cabeçalho*/
+    gap: 20px; /*Espaçamento entre os elementos (h1 e img)*/
+    align-items: center; /*Alinhamento dos itens*/
+}
+
+
+header h1 { /*ESTÁ ESTILIZANDO O TÍTULO*/
+    color: white;
+    /*SEMPRE COR DA LETRA*/
+    font-size: 30px;
+    /*SEMPRE PARA TAMANHO DE LETRAS*/
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+header img { /*ESTÁ ESTILIZANDO A IMAGEM*/
+    width: 70px; /*Largura da Logo*/
+   
+}
+
+
+
+.joaquim {
+    padding: 200px; /*preenchimento da sessão*/
+    background-color: #b3a176; /*cor de fundo*/
+    display: flex; /*deixando flex / lado a lado*/
+    justify-content: center; /*Justificando o conteúdo ao centro */
+    align-items: center; /*Alinhando os itens ao centro*/
+    gap: 30px; /*Espaço/respiro entre os itens*/
+}
+
+
+
+
+
+.renato {
+    padding: 200px;
+    background-color: #b3a176;
+    text-align: center;
+}
+
+.renato i {
+    font-size: 100px;
+    color: #200581;
+}
+
+
+.joao {
+    padding: 200px;
+    background-image:url(imagens/street-cafe-4472312_1280.jpg); /*Responsável pela imagem de fundo*/
+    background-position: bottom; /*Posicionamento da Imagem*/
+    background-size: cover; /*Preechimento da área disponível da Imagem*/
+    background-repeat: no-repeat; /*Retirando a repetição da imagem no Background.*/
+    display: flex; /*tornando os itens flex*/
+    justify-content: center; /*Alinhando o botão ao centro*/
+}
+
+.joao button {
+    width: 150px; /*largura do botão*/
+    padding: 10px; /*Preenchimento do botão*/
+    background-color: rgba(98, 95, 95, 0.802); /*cor de fundo com opacidade*/
+    color: white; /*cor da letra do botão*/
+    border-radius: 5px; /*Arredondamento do botão*/
+    
+}
+
+
+footer {
+    background-color: #200581;
+    padding: 30px;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+footer i {
+    font-size: 40px;
+    
+}
