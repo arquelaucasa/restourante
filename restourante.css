@@ -1,5 +1,5 @@
 header {
-    color:#22806b ; /* cor da texto*/ 
+    color:#22806b ; /* cor do texto*/ 
 background-color:#a89f1d ; /* cor de fundo*/
 justify-content: center; /*centralizar*/
 display : flex; /* tamanha da imagens*/
@@ -45,17 +45,19 @@ background-color: #fcaf14;
 text-align: center;
 background-color: #ed7615;
 padding: 80px;
-background-image:url(imagens/taças.jpg);
+background-image:url(imagens/64445_arroz-citrico-de-camarao-dona-cano.jpg);
 
 
 
 
 }
 button {
+
     width: 150px; 
-    padding: 10px;
-    background-color:blue;(98, 95, 95, 0.802); cor de fundo com opacidade
-    color: white; 
+    justify-content: center;
+    color: black;
+    padding: 15px;
+    background-color:rgb(253, 247, 247);(98, 95, 95, 0.802); cor de fundo com opacidade
     border-radius: 5px; 
     display: flex;
 
