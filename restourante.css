@@ -1,25 +1,36 @@
 header {
-    color:#22806b ; /* cor do texto*/ 
-background-color:#a89f1d ; /* cor de fundo*/
-justify-content: center; /*centralizar*/
-display : flex; /* tamanha da imagens*/
-gap: 02px; /* tamanho da pixul da imagens*/
-align-items: center; /*centraliza aimagens*/
+    color: #22806b;
+    /* cor do texto*/
+    background-color: #a89f1d;
+    /* cor de fundo*/
+    justify-content: center;
+    /*centralizar*/
+    display: flex;
+    /* tamanha da imagens*/
+    gap: 02px;
+    /* tamanho da pixul da imagens*/
+    align-items: center;
+    /*centraliza aimagens*/
 
 }
+
 header h1 {
-color: black; /* cor da texto*/ 
-text-align: center; /*centralizar o texto*/
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-font-size: 50px;
+    color: black;
+    /* cor do texto*/
+    text-align: center;
+    /*centralizar o texto*/
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
 
 
 }
+
 header img {
     width: 70px;
 
 
 }
+
 .nayla {
 
     padding: 150px;
@@ -32,33 +43,35 @@ header img {
 }
 
 .amanda {
-background-color: #fcaf14;
+    background-color: #fcaf14;
 
 }
 
 .amanda i {
     font-size: 50px;
-  padding: 10px;
+    padding: 10px;
 }
 
 .michele {
-text-align: center;
-background-color: #ed7615;
-padding: 80px;
-background-image:url(imagens/64445_arroz-citrico-de-camarao-dona-cano.jpg);
+    text-align: center;
+    background-color: #ed7615;
+    padding: 80px;
+    background-image: url(imagens/64445_arroz-citrico-de-camarao-dona-cano.jpg);
 
 
 
 
 }
+
 button {
 
-    width: 150px; 
+    width: 150px;
     justify-content: center;
     color: black;
     padding: 15px;
-    background-color:rgb(253, 247, 247);(98, 95, 95, 0.802); cor de fundo com opacidade
-    border-radius: 5px; 
+    background-color: rgb(253, 247, 247);
+
+    border-radius: 5px;
     display: flex;
 
 
@@ -67,17 +80,9 @@ button {
 
 footer {
     color: black;
-background: #22806b;
-padding: 70px;
-text-align: center;
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: #22806b;
+    padding: 50px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 }
-
-
-    
-
-
-   
-   
-
